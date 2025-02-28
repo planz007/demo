@@ -65,3 +65,9 @@ clear
 systemctl poweroff
 systemctl shutdown
 shutdown 
+ls
+history
+apt install vim -y
+ip address show
+ip address show
+systemctl reboot
